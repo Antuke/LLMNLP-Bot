@@ -1,0 +1,7 @@
+Information about exams:
+The LLM and NLP exam consists of a project work and an oral test, assessing both practical application and theoretical understanding.
+The project work requires students to apply the methodologies learned in the course to a real-world case, demonstrating critical thinking and implementation skills.
+The oral test evaluates theoretical knowledge, the ability to justify design choices made in the project, and responses to questions on course topics.
+The final grade is the average of the marks obtained in both assessments.
+The date of for the deliver of the project is the 18th of February, while the oral examination will be held the 21th of February.
+pre-requisite exam for LLM and NLP: machine learning 

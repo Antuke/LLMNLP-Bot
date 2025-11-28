@@ -1,0 +1,8 @@
+Information about course schedule:
+The course starts the 18th september and ends 15th december.
+The weekly schedule for Natural Language Processing and Large Language
+Models includes two lessons held in different locations.
+On Wednesday, from 12:30 PM to 2:30 PM, a class takes place in Lab T25,
+located in Building E.
+On Thursday, from 4:30 PM to 6:30 PM, a class is held in Room D of Building
+E1.

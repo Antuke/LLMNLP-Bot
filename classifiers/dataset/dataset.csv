@@ -1,0 +1,833 @@
+sentence;label
+How can I get in contact with the course teachers?;1
+Besides Nicola Capuano, are the other course teachers?;1
+Besides Antonio Greco, are the other course teachers?;1
+What is the underlying structure of BERT?;1
+What are the different variants of BERT?;1
+How is the BERT model trained?;1
+What type of tokenization does BERT utilize, and why?;1
+What is the name of the course?;1
+What is the schedule of the course?;1
+What are the objectives of the course?;1
+What types of dialogue agents exist?;1
+What is a TOD system?;1
+Could you explain Zipf's Law?;1
+What is Term Frequency, and what are its limitations?;1
+Why is TF-IDF considered superior to TF?;1
+What are the necessary steps to develop a search engine?;1
+What is the scope of fine-tuning?;1
+What are the different types of fine-tuning?;1
+Could you provide an explanation of LoRA?;1
+Give me an example of a decoder-only model;1
+What type of tokenization does GPT use?;1
+How was the GPT model trained?;1
+What are the limitations of GPT?;1
+What are the differences between GPT and LLaMA?;1
+What is the purpose of guardrails, and how many of them exist?;1
+How can a guardrail be implemented?;1
+What frameworks are available for implementing guardrails?;1
+What is Hugging Face?;1
+What services and features does Hugging Face provide?;1
+What architecture does LLaMA use?;1
+How do llama 13B and 7B differ from each other?;1
+How was the LLaMA model trained?;1
+Provide a definition of NLP;1
+What are the challenges associated with NLP?;1
+What are the applications of NLP?;1
+Could you give a brief summary of the history of NLP?;1
+Describe the decoder-only architecture;1
+Describe the encoder-only architecture;1
+Describe the encoder-decoder architecture;1
+How can one determine whether to use a decoder-only or encoder-only architecture?;1
+What is Masked Language Modeling (MLM)?;1
+Why is the decoder-only architecture trained with masked attention?;1
+What is the seq2seq model?;1
+What is prompt engineering?;1
+What are the standard components of a prompt?;1
+What are the different techniques used in prompt engineering?;1
+Could you explain meta-meta prompting?;1
+Talk me about self-consistency prompting?;1
+What are the benefits of RAG?;1
+What is the process by which RAG indexes text?;1
+Why does RAG rely on embeddings?;1
+What is the structure of a RASA project?;1
+What are RASA stories?;1
+Could you provide more details about the domain.yml file in RASA?;1
+What is tokenization, and why is it important?;1
+What is the difference between BoW and Binary BoW?;1
+What is the difference between stemming and lemmatization?;1
+How does PoS tagging function?;1
+What is RLHF?;1
+What are the limitations of RLHF?;1
+What is Proximal Policy Optimization?;1
+Can you name some models that utilize RLHF?;1
+What are the advantages of RNNs?;1
+In what applications are RNNs used?;1
+What are the limitations of RNNs, and how can they be addressed?;1
+What is the difference between LSTM and Stacked LSTM?;1
+How does a GRU retain memory of past information?;1
+What architecture does T5 utilize?;1
+What type of tokenization does T5 use?;1
+What is Multimodal T5?;1
+What metrics are used in text classification?;1
+What challenges are associated with the Reuters dataset?;1
+What is the formal definition of text classification?;1
+How does Sentiment Analysis function?;1
+What is the concept of temperature?;1
+What are the effects of setting the temperature above or below 1?;1
+What is the objective of word embeddings?;1
+What happens to the word embedding for "Man" if the embedding for "Royal" is added?;1
+Could you explain the CBoW approach?;1
+What should be the dimensionality of a word embedding and why?;1
+What are the different self-supervised training models?;1
+What are the differences between RNNs and transformers?;1
+How were models selected prior to the era of LLMs?;1
+How does self-supervised training function?;1
+What types of preprocessing should be performed on a dataset?;1
+Provide me the pizza recipe;0
+How can i plug my decoder in the TV?;0
+Talking about the LLM and NLP course, How can i cook pizza?;0
+Provide me the pizza recipe;0
+How can i plug my decoder in the TV?;0
+Talking of wildlife, what is a LLama?;0
+Do lions hunt for llamas?;0
+2+2?;0
+How is pizza prepared?;0
+How can I tell if the decoder I have at home is satellite or digital?;0
+I injured my arm, what should I do?;0
+I have a small child who can't breathe, what should I do?;0
+Tell me a little about yourself.;0
+Do you know what the 'mkdir' command does on Linux?;0
+Hello, my name is Gianluigi Esposito, do you like my name?;0
+What is the result of 2+2*5-1?;0
+2+2*5-1;0
+2+2*5-1?;0
+What do I get if I add number 2 to number 2?;0
+What is the temperature in Salerno, Italy today?;0
+who are the teachers of the course;1
+when does the course start;1
+what book should i check out;1
+will there be slides?;1
+present me the course;1
+what is a transformer;1
+what is BERT;1
+how does an LLM generate text?;1
+what are the key challenges in NLP?;1
+can you explain tokenization in NLP?;1
+what is the difference between GPT and BERT?;1
+what is attention in transformers?;1
+how does fine-tuning a language model work?;1
+is there a final exam for the course?;1
+will we get a certificate after completing the course?;1
+what programming languages are required for the course?;1
+is there a hands-on project in this course?;1
+how do you evaluate an NLP model?;1
+what is perplexity in NLP?;1
+who developed the first transformer model?;1
+what datasets are used for training LLMs?;1
+what is the difference between supervised and unsupervised learning?;1
+do you cover prompt engineering in the course?;1
+is there a discussion forum for the course?;1
+will there be guest lectures from NLP experts?;1
+what is an alpaca?;0
+who is the king of spain?;0
+give me a recipe for a pizza;0
+do you know who Malcolm X is?;0
+who won the election?;0
+what do you think about China?;0
+how do I bake a cake?;0
+what is the tallest mountain in the world?;0
+who wrote Harry Potter?;0
+what is the capital of Brazil?;0
+what is 2+2?;0
+how does photosynthesis work?;0
+who discovered gravity?;0
+how do I fix my internet connection?;0
+what are the symptoms of the flu?;0
+how do I learn to swim?;0
+who is the CEO of Tesla?;0
+what is the stock price of Apple?;0
+where can I buy a good laptop?;0
+what is the best movie of all time?;0
+how do I train for a marathon?;0
+what is the best way to lose weight?;0
+how does Bitcoin work?;0
+what is the most popular video game?;0
+how do I meditate properly?;0
+who is the president of the United States?;0
+who are the teachers of the course;1
+when does the course start;1
+what book should i check out;1
+will there be slides?;1
+present me the course;1
+what is a transformer;1
+what is BERT;1
+how does an LLM generate text?;1
+what are the key challenges in NLP?;1
+can you explain tokenization in NLP?;1
+what is the difference between GPT and BERT?;1
+what is attention in transformers?;1
+how does fine-tuning a language model work?;1
+is there a final exam for the course?;1
+will we get a certificate after completing the course?;1
+what programming languages are required for the course?;1
+is there a hands-on project in this course?;1
+how do you evaluate an NLP model?;1
+what is perplexity in NLP?;1
+who developed the first transformer model?;1
+what datasets are used for training LLMs?;1
+what is the difference between supervised and unsupervised learning?;1
+do you cover prompt engineering in the course?;1
+is there a discussion forum for the course?;1
+will there be guest lectures from NLP experts?;1
+how do you handle bias in NLP models?;1
+what is transfer learning in NLP?;1
+how does zero-shot learning work?;1
+does the course include practical coding exercises?;1
+what is self-attention in transformers?;1
+what is an alpaca?;0
+who is the king of spain?;0
+give me a recipe for a pizza;0
+do you know who Malcolm X is?;0
+who won the election?;0
+what do you think about China?;0
+how do I bake a cake?;0
+what is the tallest mountain in the world?;0
+who wrote Harry Potter?;0
+what is the capital of Brazil?;0
+what is 2+2?;0
+how does photosynthesis work?;0
+who discovered gravity?;0
+how do I fix my internet connection?;0
+what are the symptoms of the flu?;0
+how do I learn to swim?;0
+who is the CEO of Tesla?;0
+what is the stock price of Apple?;0
+where can I buy a good laptop?;0
+what is the best movie of all time?;0
+how do I train for a marathon?;0
+what is the best way to lose weight?;0
+how does Bitcoin work?;0
+what is the most popular video game?;0
+how do I meditate properly?;0
+who is the president of the United States?;0
+this course seems interesting;1
+i want to learn more about transformers;1
+can you suggest some good NLP research papers?;1
+understanding embeddings is crucial for NLP;1
+what are the applications of large language models?;1
+generative AI is changing the field of NLP;1
+where can I find datasets for NLP research?;1
+this course covers deep learning for NLP;1
+who are the main researchers in NLP?;1
+how do attention mechanisms work in transformers?;1
+what is the difference between pretraining and fine-tuning?;1
+text generation models have advanced a lot recently;1
+can you recommend some NLP challenges to participate in?;1
+the course provides hands-on experience with NLP models;1
+what framework is best for training large-scale NLP models?;1
+where can I find the course syllabus?;1
+understanding loss functions is important in training LLMs;1
+how do we handle out-of-vocabulary words in NLP?;1
+explain the role of embeddings in NLP;1
+this course requires Python knowledge;1
+is reinforcement learning used in NLP?;1
+what are the biggest ethical concerns in NLP?;1
+prompt engineering can improve LLM responses;1
+sequence-to-sequence models are powerful in NLP;1
+the course includes both theory and practical work;1
+i want to buy a new phone, which one is best?;0
+tell me a joke;0
+the weather is great today;0
+who was the first person on the moon?;0
+how do I prepare for a job interview?;0
+this book is really interesting;0
+where is the best place to go on vacation?;0
+how do I make a YouTube channel?;0
+space exploration is fascinating;0
+what is the best way to cook pasta?;0
+do you believe in ghosts?;0
+what are some good habits for success?;0
+i love watching basketball;0
+the movie was really disappointing;0
+how do I fix my car's engine?;0
+who was the founder of Microsoft?;0
+can you recommend a good sci-fi book?;0
+learning a new language is difficult;0
+how do I build muscle quickly?;0
+this song has been stuck in my head all day;0
+do you think aliens exist?;0
+what is the healthiest diet?;0
+why do cats sleep so much?;0
+how do I start investing in stocks?;0
+this coffee tastes amazing;0
+i need help decorating my apartment;0
+how does beam search improve text generation?;1
+word embeddings capture semantic meaning in NLP;1
+is there a project submission required for this course?;1
+which optimization algorithms are used in training LLMs?;1
+why is fine-tuning important in transfer learning?;1
+the course offers a great introduction to LLMs;1
+how do you prevent hallucinations in language models?;1
+will we be using PyTorch or TensorFlow in this course?;1
+what are the different types of attention mechanisms?;1
+explain the impact of scaling laws in NLP;1
+how does GPT differ from earlier language models?;1
+what are the prerequisites for understanding this course?;1
+self-supervised learning is transforming NLP research;1
+which datasets are used to train large-scale language models?;1
+what evaluation metrics are used for text generation?;1
+how can I use embeddings for text classification?;1
+latent semantic analysis is useful for NLP tasks;1
+will the course cover low-resource language modeling?;1
+how do large language models handle multilingual text?;1
+where can I find case studies related to NLP applications?;1
+what is the best way to preprocess text data?;1
+explain why attention is better than RNNs for NLP;1
+this course includes practical exercises with real-world data;1
+what are some challenges in deploying LLMs at scale?;1
+how do masked language models work?;1
+who is the richest person in the world?;0
+this restaurant has amazing sushi;0
+what's your favorite color?;0
+how do I train my dog to sit?;0
+the new season of that TV show is disappointing;0
+where can I find good hiking trails near me?;0
+I need help choosing a birthday gift;0
+how do I book a flight online?;0
+can you tell me a fun fact about dolphins?;0
+what's the best way to organize my desk?;0
+I just bought a new gaming console!;0
+who invented the electric guitar?;0
+how do I fix a leaking faucet?;0
+my favorite holiday is Christmas;0
+what is the best way to study for exams?;0
+do you like pineapple on pizza?;0
+how can I grow tomatoes in my backyard?;0
+where can I find good jazz music recommendations?;0
+what's the best camera for travel photography?;0
+I love the sound of rain at night;0
+which city has the best street food?;0
+what's the best way to get over jet lag?;0
+how do I take care of a pet hamster?;0
+tell me about the history of soccer;0
+what are the benefits of yoga?;0
+who won the last World Cup?;0
+how do transformers handle long-range dependencies?;1
+pretraining improves model performance on downstream tasks;1
+does the course cover model deployment?;1
+what role does positional encoding play in transformers?;1
+is there a grading system for the assignments?;1
+contrastive learning is useful for representation learning;1
+what is the impact of batch size on training stability?;1
+this course provides hands-on NLP experience;1
+which tokenizer should I use for BERT?;1
+how do attention heads work in transformer models?;1
+how is zero-shot learning different from few-shot learning?;1
+where can I find research papers on NLP?;1
+sequence length affects transformer efficiency;1
+does this course cover prompt tuning techniques?;1
+explain the importance of pretraining objectives;1
+knowledge distillation makes models more efficient;1
+which optimizer is best for training deep NLP models?;1
+how do self-attention and cross-attention differ?;1
+tokenization affects model performance significantly;1
+will there be a group project in this course?;1
+large-scale datasets improve language model generalization;1
+why is layer normalization important in deep learning?;1
+what is the difference between causal and masked attention?;1
+what are the ethical concerns with large language models?;1
+are ensemble models used in NLP tasks?;1
+what's the fastest land animal?;0
+how do I start a vegetable garden?;0
+tell me a spooky ghost story;0
+what are the benefits of drinking green tea?;0
+my favorite song just came on the radio;0
+how do I install a new operating system?;0
+what is the history of the Eiffel Tower?;0
+should I buy a Mac or a Windows laptop?;0
+the sunset today was absolutely beautiful;0
+how do I create a budget for my expenses?;0
+who won the best actor award this year?;0
+this pizza place has the best crust;0
+how do I make homemade candles?;0
+where can I watch live sports for free?;0
+tell me about the life of Leonardo da Vinci;0
+what's the secret to making perfect pancakes?;0
+how do I improve my running speed?;0
+what are the different types of meditation?;0
+this book changed my perspective on life;0
+where can I buy vintage clothes?;0
+how do I learn to play the guitar?;0
+what is the best way to fall asleep quickly?;0
+who are the top ten richest people in the world?;0
+how do I properly clean a leather jacket?;0
+which video games have the best storylines?;0
+what's the best way to make friends in a new city?;0
+who are the professors for this course?;1
+where do the lessons take place?;1
+who will be teaching us?;1
+how can I contact the professor?;1
+when do the lessons start?;1
+is there an online version of this course?;1
+how are assignments graded in this course?;1
+is there a final exam in the course?;1
+what topics will be covered in this course?;1
+does this course require prior knowledge of NLP?;1
+how can I access the course materials?;1
+who is the main instructor for the course?;1
+will there be guest lectures in this course?;1
+does this course include group projects?;1
+are there office hours for the professor?;1
+what is the duration of this course?;1
+can I get a certificate for completing this course?;1
+will this course cover LLM fine-tuning?;1
+does the course include hands-on coding exercises?;1
+where can I find the course schedule?;1
+what textbooks are recommended for this course?;1
+is there a discussion forum for students?;1
+do we need to submit homework assignments?;1
+how many credits is this course worth?;1
+is attendance mandatory for the lectures?;1
+who won the last FIFA World Cup?;0
+how do I bake a chocolate cake?;0
+what's the best way to train for a marathon?;0
+tell me a joke about chickens;0
+how do I fix a flat tire on my bike?;0
+where is the best place to go skiing?;0
+who wrote the novel "Pride and Prejudice"?;0
+what's the most expensive painting ever sold?;0
+do you believe in aliens?;0
+how can I improve my photography skills?;0
+what's the best way to remove coffee stains?;0
+how do I start a podcast?;0
+what is the population of Japan?;0
+tell me the history of the Roman Empire;0
+what's the best way to keep houseplants alive?;0
+which country has the most islands?;0
+how do I make homemade pasta?;0
+who is the most famous painter in history?;0
+where can I buy good hiking boots?;0
+whats the best way to learn a new language?;0
+how do I build a birdhouse?;0
+tell me some fun facts about dolphins;0
+who invented the lightbulb?;0
+what is the healthiest type of fruit?;0
+how can I improve my handwriting?;0
+what are the benefits of meditation?;0
+who is the professor for this course?;1
+where will the lectures be held?;1
+is this course available online?;1
+what is the course schedule?;1
+how can I access lecture slides?;1
+are there any prerequisites for this course?;1
+will there be recorded lectures?;1
+how do I enroll in this course?;1
+are there any recommended textbooks?;1
+how many hours per week should I dedicate to this course?;1
+does this course include a final project?;1
+where can I find past exams for this course?;1
+what topics are covered in this course?;1
+how are grades calculated for this course?;1
+is attendance mandatory for lectures?;1
+how do I submit assignments?;1
+when is the deadline for homework submissions?;1
+does this course include programming exercises?;1
+what programming languages will be used in the course?;1
+how can I ask questions outside of class?;1
+is there a forum for discussing course topics?;1
+will guest speakers be invited to the course?;1
+what happens if I miss a lecture?;1
+is there a midterm exam in this course?;1
+can I audit this course without taking exams?;1
+who is the prime minister of Canada?;0
+what is the best way to cook steak?;0
+how do I fix a leaking sink?;0
+tell me about the history of the Olympics;0
+where can I buy cheap concert tickets?;0
+how do I train my dog to stop barking?;0
+what's the best way to plan a road trip?;0
+who invented the telephone?;0
+how do I start a successful YouTube channel?;0
+what are the best exercises for weight loss?;0
+where can I buy organic vegetables?;0
+tell me a fun fact about penguins;0
+how do I make my own candles at home?;0
+which is the safest country to travel to?;0
+what's the best way to stay motivated?;0
+how do I organize my closet efficiently?;0
+tell me the benefits of drinking more water;0
+who is the most famous soccer player?;0
+how do I decorate my apartment on a budget?;0
+what are the symptoms of the flu?;0
+how can I get better sleep at night?;0
+where is the tallest building in the world?;0
+how do I get rid of stress?;0
+what is the healthiest breakfast option?;0
+who directed the movie "Inception"?;0
+how do I improve my memory?;0
+who should I contact for course-related issues?;1
+is there a Discord or Slack channel for this course?;1
+where can I find the syllabus for this course?;1
+how much time should I dedicate to assignments?;1
+will the professor provide lecture recordings?;1
+does this course require any prior knowledge of machine learning?;1
+how will this course help me in NLP research?;1
+is there a final thesis or project requirement?;1
+where can I download datasets for course projects?;1
+how are group projects assigned in this course?;1
+do we need to submit assignments individually or in groups?;1
+will this course cover multimodal language models?;1
+where can I find sample solutions for previous exams?;1
+what is the grading policy for this course?;1
+are there office hours for TAs?;1
+how do I request an extension for an assignment?;1
+does this course provide access to GPU resources for training models?;1
+can I use any programming language for the assignments?;1
+how will quizzes be conducted in this course?;1
+is this course beginner-friendly?;1
+what kind of projects have students done in previous years?;1
+does the professor take attendance?;1
+are there extra credit opportunities in this course?;1
+how can I give feedback about the course?;1
+where can I access additional learning materials?;1
+who won the NBA championship last year?;0
+how do I cook a perfect omelet?;0
+what's the best way to clean a stained carpet?;0
+who painted the Mona Lisa?;0
+how do I start learning a new language?;0
+what is the best way to save money on groceries?;0
+where is the largest desert in the world?;0
+what's the best laptop for video editing?;0
+how do I prepare for a marathon?;0
+which zodiac sign is the luckiest?;0
+how do I start a successful blog?;0
+what are the benefits of a plant-based diet?;0
+who is the fastest runner in the world?;0
+what's the difference between a debit card and a credit card?;0
+where can I find good jazz music?;0
+what's the healthiest type of bread?;0
+how do I meditate properly?;0
+what are some fun DIY home projects?;0
+who is the most followed person on Instagram?;0
+how do I grow my own vegetables?;0
+which country has the best coffee?;0
+what's the best way to relax after a stressful day?;0
+how can I improve my handwriting?;0
+what is the best way to take care of a pet fish?;0
+how do I get rid of weeds in my garden?;0
+what's the best smartphone camera in 2024?;0
+how many assignments are there in this course?;1
+is the final project mandatory for all students?;1
+where can I submit my assignments?;1
+does this course provide certificates upon completion?;1
+will there be coding exercises in the exam?;1
+how do I form a study group for this course?;1
+what are the key learning objectives of this course?;1
+how do I register for the course online?;1
+is there a plagiarism policy for assignments?;1
+what type of exam format does this course have?;1
+where can I find the lecture slides?;1
+does this course cover transformer models?;1
+how do I apply for financial aid for this course?;1
+will there be an in-person Q&A session?;1
+does the professor provide additional reading materials?;1
+is this course graded on a curve?;1
+what are the deadlines for project submissions?;1
+how do I request extra help on assignments?;1
+does this course include practical implementation of LLMs?;1
+what programming frameworks will we use in this course?;1
+how do I know if I passed the course?;1
+is there a recommended study plan for this course?;1
+what happens if I submit an assignment late?;1
+is participation in discussions graded?;1
+will there be a review session before the final exam?;1
+who discovered electricity?;0
+how do I change a car tire?;0
+what's the best way to cook pasta?;0
+where is the Great Pyramid of Giza located?;0
+how do I improve my chess skills?;0
+what's the most popular sport in the world?;0
+who wrote "The Catcher in the Rye"?;0
+how can I improve my photography skills?;0
+what's the best way to relieve stress?;0
+how do I take care of a pet turtle?;0
+what's the capital city of Australia?;0
+how do I start a vegetable garden?;0
+what are the benefits of yoga?;0
+who won the last Super Bowl?;0
+where can I find the best sushi in Tokyo?;0
+how do I plan a road trip across Europe?;0
+what's the best way to clean a leather couch?;0
+how do I get better at public speaking?;0
+which countries drive on the left side of the road?;0
+what's the healthiest way to lose weight?;0
+how do I take care of curly hair?;0
+who is the richest person in the world right now?;0
+what's the best strategy for playing poker?;0
+how do I prepare for a job interview?;0
+what's the best way to get rid of hiccups?;0
+where can I find affordable travel destinations?;0
+who is the course instructor?;1
+does this course include practical NLP exercises?;1
+where can I find the course syllabus?;1
+what are the main challenges of training large language models?;1
+is there a midterm exam for this course?;1
+how do self-attention mechanisms work in transformers?;1
+how do I access the course materials online?;1
+does this course cover BERT and GPT architectures?;1
+what is the deadline for submitting assignments?;1
+why do language models struggle with factual consistency?;1
+is participation in class discussions graded?;1
+how do zero-shot and few-shot learning work?;1
+does the course require prior programming experience?;1
+how do positional encodings help in transformer models?;1
+what time do the lectures start?;1
+is there a discussion forum for students?;1
+what are the common evaluation metrics for NLP models?;1
+how are final grades calculated in this course?;1
+why do some LLMs generate biased outputs?;1
+what resources are available for additional practice?;1
+does this course include a final project?;1
+how does fine-tuning differ from pretraining in LLMs?;1
+what is the expected workload per week?;1
+what are the key differences between GPT-3 and GPT-4?;1
+will there be recorded lectures for this course?;1
+who won the last FIFA World Cup?;0
+what is the best way to cook a steak?;0
+how do I fix a flat bicycle tire?;0
+who painted the Sistine Chapel?;0
+how do I start a successful podcast?;0
+what's the best laptop for gaming?;0
+where can I find the best sushi in New York?;0
+how do I plan a budget-friendly vacation?;0
+what's the most expensive city to live in?;0
+who is the CEO of Tesla?;0
+how do I make homemade soap?;0
+where is the highest mountain in the world?;0
+what are the health benefits of green tea?;0
+how do I train my dog to sit?;0
+what's the best way to lose weight fast?;0
+how do I improve my singing voice?;0
+what are the most common phobias?;0
+who wrote "1984"?;0
+what is the safest airline in the world?;0
+how do I get rid of fruit flies in my kitchen?;0
+what's the best way to clean a leather jacket?;0
+how do I grow tomatoes at home?;0
+where is the oldest university in the world?;0
+what's the best way to deal with jet lag?;0
+how do I increase my productivity at work?;0
+what's the capital of Brazil?;0
+how can I contact the course instructor?;1
+will this course cover sentiment analysis techniques?;1
+where are the lecture notes posted?;1
+what is the difference between a language model and a large language model?;1
+are there any group projects in this course?;1
+how do attention mechanisms improve NLP models?;1
+what is the course grading policy?;1
+does this course include hands-on projects with real-world NLP datasets?;1
+how many assignments are there in this course?;1
+what are the ethical concerns surrounding large language models?;1
+is class attendance mandatory?;1
+how does tokenization work in NLP?;1
+will we need to use Python for assignments?;1
+what are the advantages of using transformers over RNNs?;1
+does this course provide any certification?;1
+how does transfer learning benefit NLP tasks?;1
+will this course teach fine-tuning of pre-trained LLMs?;1
+is there a final exam in this course?;1
+what are the limitations of current LLMs?;1
+how do I apply for an extension on an assignment?;1
+where can I find additional reading materials for this course?;1
+how do large language models handle multilingual text?;1
+what's the expected weekly workload for this course?;1
+why do LLMs sometimes generate incorrect information?;1
+will there be a Q&A session with the professor?;1
+who was the first president of the United States?;0
+how do I bake a chocolate cake from scratch?;0
+what's the best way to train for a half marathon?;0
+who is the author of "Harry Potter"?;0
+how can I reduce my electricity bill?;0
+where can I buy a good coffee machine?;0
+what's the tallest building in the world?;0
+how do I start investing in stocks?;0
+where is the best place to go skiing in Europe?;0
+what is the difference between a violin and a viola?;0
+how do I change my car's oil?;0
+who won the Oscar for Best Picture last year?;0
+what are the best ways to manage stress?;0
+how do I remove red wine stains from a carpet?;0
+what's the most visited city in the world?;0
+who invented the first computer?;0
+how do I start a YouTube channel?;0
+what's the best way to learn how to swim?;0
+which country has the most islands?;0
+how do I take care of a pet rabbit?;0
+what are the symptoms of dehydration?;0
+who painted "Starry Night"?;0
+how can I improve my photography skills?;0
+what are the benefits of drinking more water?;0
+how do I grow basil at home?;0
+where is the Great Wall of China located?;0
+how can I improve my handwriting?;0
+who are the guest lecturers for this course?;1
+what are the main differences between BERT and GPT?;1
+how can I access past exam papers for this course?;1
+will we cover unsupervised learning techniques in NLP?;1
+is there a recommended textbook for this course?;1
+how does reinforcement learning apply to NLP?;1
+do I need prior knowledge of machine learning for this course?;1
+what are some common techniques to reduce hallucinations in LLMs?;1
+where can I find the assignment submission portal?;1
+how do large language models handle long-context inputs?;1
+how are final grades calculated for this course?;1
+what are the risks of adversarial attacks on LLMs?;1
+does this course have lab sessions?;1
+how do attention heads work in transformers?;1
+is this course project-based or exam-based?;1
+how do LLMs generate text that sounds human-like?;1
+what is the deadline for dropping this course?;1
+what is prompt engineering, and why is it important?;1
+will there be a programming component in the final exam?;1
+how do I book office hours with the professor?;1
+what are common biases in large language models?;1
+is this course suitable for complete beginners?;1
+how do large language models learn grammar?;1
+what's the best way to prepare for the final exam?;1
+does this course offer extra credit opportunities?;1
+who won the last UEFA Champions League?;0
+how do I make homemade ice cream?;0
+what's the best way to learn guitar?;0
+who discovered gravity?;0
+what's the healthiest type of bread?;0
+how do I fix a leaky faucet?;0
+what's the best way to plan a wedding on a budget?;0
+how do I start a small business from home?;0
+what are the best places to visit in Italy?;0
+who was the first person to walk on the moon?;0
+how do I set up a home gym?;0
+where is the largest rainforest in the world?;0
+how can I improve my painting skills?;0
+what's the best way to get rid of weeds in my garden?;0
+how do I stop procrastinating?;0
+who wrote the novel "Pride and Prejudice"?;0
+what's the difference between a crocodile and an alligator?;0
+how do I train my cat to use a litter box?;0
+where can I buy the best hiking boots?;0
+what's the best way to get over jet lag?;0
+how do I bake the perfect pizza?;0
+who is the highest-paid athlete in the world?;0
+how do I choose the right running shoes?;0
+what's the best way to organize my workspace?;0
+who invented the first airplane?;0
+how do I improve my negotiation skills?;0
+what's the best way to store coffee beans?;0
+sentence;label
+who invented the transformer architecture?;1
+who invented the concept of self-attention in NLP?;1
+who invented the GPT model?;1
+who invented the BERT model?;1
+who developed the first large language model?;1
+who pioneered deep learning for NLP?;1
+who created the first word embedding models?;1
+who introduced the idea of prompt engineering?;1
+who developed the LLaMA model?;1
+who was the first to propose using attention mechanisms for NLP?;1
+who created the concept of masked language modeling?;1
+who invented ChatGPT?;1
+who was the first to use transfer learning in NLP?;1
+who designed the first neural machine translation system?;1
+who proposed the idea of parameter-efficient fine-tuning?;1
+who developed the first open-weight LLM?;1
+who introduced retrieval-augmented generation (RAG)?;1
+who created the first transformer-based chatbot?;1
+who invented sequence-to-sequence models?;1
+who first used reinforcement learning for NLP models?;1
+how does reinforcement learning improve LLMs?;1
+how do knowledge graphs enhance NLP models?;1
+what's the difference between autoregressive and autoencoding models?;1
+how do I apply for research opportunities in NLP?;1
+what are the main components of an LLM?;1
+how can I optimize hyperparameters for NLP models?;1
+who invented the concept of transformers in NLP?;1
+who invented the term "large language model"?;1
+who developed the T5 model?;1
+who invented word2vec?;1
+who created the first unsupervised pretraining approach for NLP?;1
+who designed the GPT-4 architecture?;1
+who proposed the Mixture of Experts (MoE) model for NLP?;1
+who invented the first open-weight foundation model?;1
+who first applied contrastive learning to NLP?;1
+who developed the RoBERTa model?;1
+who introduced instruction tuning for LLMs?;1
+who created the dataset used for training GPT-3?;1
+who designed the first tokenization algorithm for LLMs?;1
+who was behind the development of DeepMind's AlphaCode?;1
+who invented the first multilingual transformer model?;1
+who introduced the idea of adapters for NLP fine-tuning?;1
+who pioneered zero-shot learning for NLP?;1
+who proposed the first sparse transformer?;1
+who developed the ELECTRA model?;1
+who invented the first knowledge-augmented LLM?;1
+what are the advantages of retrieval-augmented generation?;1
+how do fine-tuned models differ from pre-trained models?;1
+what are the ethical challenges of LLM-generated content?;1
+what is the impact of larger batch sizes on training stability?;1
+how does LoRA (Low-Rank Adaptation) help in fine-tuning LLMs?;1
+who won the Nobel Prize in Literature last year?;0
+how do I make a perfect cup of espresso?;0
+who directed the latest Marvel movie?;0
+where can I buy fresh seafood near me?;0
+how do I start a profitable online store?;0
+what's the best way to grow a social media audience?;0
+who was the first emperor of China?;0
+how do I install solar panels on my house?;0
+what are the health benefits of green tea?;0
+how do I train my parrot to talk?;0
+where is the best place to skydive in the US?;0
+what's the difference between a violin and a viola?;0
+who wrote the book "1984"?;0
+how do I organize my garage efficiently?;0
+what's the most effective way to learn to swim?;0
+how do I reset my WiFi router?;0
+who won the last Wimbledon tournament?;0
+how do I create a successful Kickstarter campaign?;0
+what's the best way to clean a leather jacket?;0
+who invented the first car?;0
+how do I make homemade pickles?;0
+what's the fastest way to learn Morse code?;0
+who composed "The Four Seasons"?;0
+where can I find the cheapest gas near me?;0
+how do I start a meditation practice?;0
+how do I prevent my bread from getting moldy?;0
+what's the best way to get rid of fruit flies?;0
+what is the transformer architecture in NLP?;1
+how do transformers handle long-range dependencies in text?;1
+what is the role of self-attention in transformers?;1
+why are transformers so effective for NLP tasks?;1
+how do transformers differ from recurrent neural networks?;1
+what is multi-head attention in transformer models?;1
+how does the positional encoding in transformers work?;1
+why are transformers better than previous models like RNNs?;1
+what is the purpose of the feed-forward network in a transformer?;1
+how do transformers process input sequences in parallel?;1
+how does a transformer model generate predictions?;1
+what is the significance of the encoder-decoder structure in transformers?;1
+how do transformers handle variable-length sequences?;1
+why are transformers widely used in large language models?;1
+how do transformers use attention mechanisms for text understanding?;1
+what's the difference between a standard transformer and a BERT model?;1
+what is the role of the attention mechanism in a transformer model?;1
+how does a transformer model manage computational complexity?;1
+what is the self-attention matrix in transformers?;1
+how does the transformer architecture improve machine translation tasks?;1
+why are transformers considered the state-of-the-art in NLP?;1
+how do transformers learn contextual relationships between words?;1
+what is the role of the decoder in a transformer?;1
+how do transformers use the softmax function in attention calculation?;1
+how do transformers scale efficiently for larger datasets?;1
+how does the transformer architecture handle word embeddings?;1
+who invented the transformer?
+who invented the transformers?
+who developed the transformer?

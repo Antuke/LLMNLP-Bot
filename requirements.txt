@@ -1,0 +1,12 @@
+ollama # pull the used model with ollama cli: ollama pull qwen2.5; ollama pull nomic-embed-text
+numpy
+transformers
+colorama
+joblib
+tf-keras
+
+
+# for training the classifiers:
+# sklearn
+# datasets
+# pandas

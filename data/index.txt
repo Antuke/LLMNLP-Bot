@@ -1,0 +1,11 @@
+$$$
+exam.txt | EXAM PROJECT | how is the exam structured? is there a project work? when does the exam take place? 
+$$$
+materials.txt | BOOK SLIDEDS MATERIALS | what book should i check out for the course? will we have slides? On what material can I study?
+$$$
+schedule.txt | SCHEDULE BUILDING LESSON | where do lesson take place? when do lesson start? what is the course schedule?
+$$$
+teachers.txt | PROFESSOURS CONTACTS CONTACT CURRICULUM TEACHERS ANTONIO GRECO NICOLA CAPUANO | who teaches the course? who are the teachers? who are the profs? who are the professours? how can I get in contact with the profs?
+$$$
+syllabus.txt | TOPICS COVERED COURSE INTRODUCTION CURRICULUM PRESENTATION | present me the course, what is the course about? what are the main topic? give me an introduction to the course? present me the syllabus? what is ...?
+$$$

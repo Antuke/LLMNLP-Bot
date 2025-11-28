@@ -1,0 +1,3 @@
+The primary reference text for this course is:
+H. Lane, C. Howard, H. M. Hapke - Natural Language Processing in Action: Understanding, Analyzing, and Generating Text with Python, Manning.
+In addition to the textbook, supplementary learning materials (slides and codes) will be available in the dedicated section of the course on the university's e-learning platform (https://elearning.unisa.it). Students can access these materials using their university credentials.

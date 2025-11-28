@@ -1,0 +1,59 @@
+Course introduction and syllabus:
+The course provides the theoretical, methodological, technological, and design knowledge related to automatic language and text comprehension,
+situating the innovative paradigms introduced by Large Language Models within the general framework for building Natural Language Processing (NLP) systems,
+along with the numerous modern applications of these technologies.
+
+Knowledge and Understanding:
+Fundamental concepts of Natural Language Processing (NLP) systems.
+Standard language models.
+Transformer-based Large Language Models (LLMs).
+NLP applications using Large Language Models.
+Prompt engineering.
+Fine-tuning of Large Language Models.
+
+Ability to Apply Knowledge and Understanding:
+Design and development of an NLP system based on Large Language Models.
+Effective integration of existing technologies and tools.
+Optimal configuration of operational parameters.
+
+
+This is the list of argouments of the course:
+Basic concepts of NLP
+NLP tasks, evolution, and applications
+Tokenization
+Stemming and Lemmatization
+Bag of Words and N-Grams
+Similarity measures
+Word embeddings
+TF-IDF vectors
+Classification techniques
+Clustering of text
+Word embeddings
+Application of CNNs (Convolutional Neural Networks) in text analysis
+Recurrent Neural Networks (RNNs) models
+LSTM (Long Short-Term Memory) models
+Named Entity Recognition (NER)
+Question Answering
+Self-attention mechanism in transformers
+Multi-head attention in transformers
+Positional encoding in transformers
+Masking in transformers
+Encoder and decoder components of a Transformer
+Encoder-only, BERT and popular variants
+Decoder-only, GPT and LLAMA
+Encoder-Decoder, T5 and popular
+Introduction to Hugging Face
+Training of an LLM
+Zero-shot prompting
+Few-shot prompting
+Chain-of-thought prompting
+Self-consistency prompting
+Generated knowledge
+Prompt chaining
+ReAct (Reasoning + Acting)
+Retrieval Augmented Generation (RAG)
+Feature-based fine-tuning
+Parameter-efficient fine-tuning (PEFT)
+Low-Rank Adaptation (LoRA)
+Reinforcement Learning with Human Feedback (RLHF) (Concept of RLHF and how it's applied to LLMs)
+

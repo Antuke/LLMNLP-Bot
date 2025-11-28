@@ -1,0 +1,6 @@
+Information about teachers:
+There are two Professors for the Natural Language Processing and Large Language Models course at the University of Salerno. They are:
+ 1. Professor Nicola Capuano (ncapuano@unisa.it), an Associate Professor at the University of Salerno (DIEM). Curriculum and contacts are available at "https://docenti.unisa.it/004322/home"
+ 2. Professor Antonio Greco (agreco@unisa.it),  a researcher at the University of Salerno (DIEM). Curriculum and contacts are available at "https://docenti.unisa.it/026557/home"
+ For more information please consult the website provided.
+DIEM stands for: departament OF information engineering, electrical engineering and applied mathematics
