@@ -86,6 +86,6 @@ python main.py --model mistral --mode logistic
 
 ## 📄 Design 
 
-Detailed information about the project's design choices, methodology, and implementation can be found in **Chapter 5** of the project report: `report_llm.pdf`.
+Detailed information about the project's design choices, methodology, and implementation can be found in **Chapter 5** of the project [Report](Report_LLM.pdf).
 
 
