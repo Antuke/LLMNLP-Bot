@@ -83,3 +83,9 @@ python main.py --model mistral --mode logistic
 *   `myrag.py`: RAG implementation (Hybrid Search).
 *   `topic_classifier.py`: Wrapper for the classic (SVM/Logistic) guardrails.
 *   `classifiers/`: Contains training scripts and the fine-tuned BERT model.
+
+## 📄 Design 
+
+Detailed information about the project's design choices, methodology, and implementation can be found in **Chapter 5** of the project report: `report_llm.pdf`.
+
+
